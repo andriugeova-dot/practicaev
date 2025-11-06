@@ -1,18 +1,16 @@
 body{
     background-color: rgb(196, 214, 228);
-}
+};
 
-.contenedor {
-    border-radius: 20px;
-    border: 1px solid black;
-    width: 300px;
-    height: 300px;
-    background-color: orange;
-}
 .cuadrito{
     border-radius: 20px;
     border:1px solid black;
     width: 200px;
     height: 200px;
     background-color: red;
+    margin: 100px;
+}
+button{
+    display: flex;
+    justify-content: center;
 }
